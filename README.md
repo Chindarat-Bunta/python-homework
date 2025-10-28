@@ -1,3 +1,2 @@
-# python-homework
 # python-programming
 # นางสาวจินดารัตน์ บุญตา รหัสนักศึกษา 6812732132
